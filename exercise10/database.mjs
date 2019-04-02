@@ -2,6 +2,7 @@ import DatabaseError from './databaseError'
 import Parser from './parser'
 
 
+
 export default class Database {
     constructor() {
         this.tables = {};
